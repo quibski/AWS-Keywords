@@ -1,0 +1,213 @@
+AWSUG.PH
+Amazon Web Services
+
+
+Compute
+EC2  - Virtual Machine
+Lightsail  - Webhosting / Cpanel-like
+ECR  - Container Registry
+ECS - Container Services
+EKS - Kubernetes Container
+Lambda - Serverless
+Batch -  Batch Processing
+Elastic Beanstalk - Paas / Heroku-like
+Serverless Application Repository - Serverless App Model Repo
+
+
+Storage
+S3 - Unli Object Storage / Dropbox-like
+EFS - Network Storage 
+FSx- Lustre or Windows File
+S3 Glacier - Long Term Storage / TapeDrive-like
+Storage Gateway -  Onprem  Network Storage to Cloud
+AWS Backup - BackupLife Policy
+
+Database
+RDS - SQLDatabases / Mysql
+DynamoDB - NoSQL Database
+ElastiCache - DB Cache
+Neptune - GraphDatabase
+Amazon Redshift - DataWarehousing / OLAP
+Amazon QLDB  - BlockchainDB
+Amazon DocumentDB  - Managed MongoDB
+
+Migration & Transfer
+AWS Migration Hub  - Wizard to migration of app from onprem  to AWS
+Application Discovery Service - Collect App&Servers onprem 
+Database Migration Service - DB Migration
+Server Migration Service - VMware, MS Hyper-V/SCVMM, & Azure to AWS
+AWS Transfer for SFTP - SFTP service
+Snowball - BriefCase Storage Shipped
+DataSync - Agent to Move Data to AWS
+
+
+Networking & Content Delivery
+VPC  - Virtual Network
+CloudFront  - CDN / Akami-like
+Route 53  - DNS / GoDaddy-like
+API Gateway - REST & Websockets API
+Direct Connect - Dedicated Line / LeaseLine-like
+AWS App Mesh - App-Level Networking / Envoy
+AWS Cloud Map - Cloud resource discovery service
+Global Accelerator - Static IP into the Region
+
+Developer Tools
+CodeStar - GroupOfCI/CD Tools
+CodeCommit - GitRepo
+CodeBuild - Build / GoldenAMI or Zip - like
+CodeDeploy - Deploy / Unpack to Servers
+CodePipeline - RoadMap of CI/CD
+Cloud9 - Cloud IDE / VSCode
+X-Ray - AppLevel Tracking
+
+Robotics
+AWS RoboMaker - Robotics
+
+Customer Enablement
+AWS IQ - AWS Certified third-party experts
+Support - Support Central / Ticketing
+Managed Services - AWS Employees for Rent
+
+Blockchain
+Amazon Managed Blockchain - BlockChain Network
+
+Satellite
+Ground Station - Receiver on Earth (Not the Satellite Itself)
+
+
+Management & Governance
+AWS Organizations - Multiple AWS Account
+CloudWatch - Monitoring Metrics of Services
+AWS Auto Scaling - AutoScaling (Clone or Grow)
+CloudFormation - SAML/JSON IAAS / Infra as Code
+CloudTrail - Log for AWS Api Calls (including WebConsole)
+Config - Create & Evaluate Rules for Infra
+OpsWorks - Managed Chef
+Service Catalog - Create & Manage Catalogs of IT services
+Systems Manager - Unified User Interface Group Resources
+Trusted Advisor - Virtual Consultant
+Control Tower - Govern New, Secure Multi-account / Landing Zones
+AWS License Manager - Microsoft, SAP, Oracle, and IBM, etc License
+AWS Well-Architected Tool - latest AWS architectural best practices
+Personal Health Dashboard - AWS Status of Services you may be affected
+AWS Chatbot - Chatbot Maker
+Launch Wizard for SQL Server - SQL Server applications
+
+Media Services
+Elastic Transcoder - Transcoder / Converting
+Kinesis Video Streams - Realtime CCTV info
+MediaConnect - Secure, reliable live video transport
+MediaConvert - file-based video transcoding
+MediaLive - Encode live video for broadcast and streaming
+MediaPackage - prepare and protect video
+MediaStore - Store and deliver video assets for live streaming
+MediaTailor - Server-side ad insertion
+Elemental Appliances & Software - On-premises solutions for video
+
+
+Machine Learning
+Amazon SageMaker - ML Wizard & Jupiter Notebooks 
+Amazon Comprehend - Managed NLP 
+Amazon Forecast - TimeSeries Forcast
+Amazon Lex - Speech to Text
+Amazon Machine Learning - (Old Sagemaker)
+Amazon Personalize - Recommendation Engine 
+Amazon Polly - Text to Speech
+Amazon Rekognition - Computer Vision
+Amazon Textract - Better OCR
+Amazon Transcribe - Speech Recognition (Multi)
+Amazon Translate - Translation
+AWS DeepLens - SmartCamera
+AWS DeepRacer - SmartRC Car
+
+Analytics
+Athena - SQL for files / S3
+EMR - Amazon Hadoop
+CloudSearch - Fulltext Search / Sphinx, Solr - like
+Elasticsearch Service - Managed Elasticsearch 
+Kinesis - Realtime Streaming of Data&Video
+QuickSight - BI Tool 
+Data Pipeline - Schedule Data Move & Processing onprem to Cloud
+AWS Data Exchange - Find and Subscribe to third-party data
+AWS Glue -  Managed Extract, Transform, and Load (ETL)
+AWS Lake Formation - Build a secure data lake
+MSK - Apache Kafka service
+
+
+Security, Identity, & Compliance
+IAM - User Management for AWS
+Resource Access Manager - 
+Cognito - User Pool esp Mobile
+Secrets Manager - Agent for Enviroment Variables
+GuardDuty - Detection Service for Malicious Activity
+Inspector - Security Agent
+Amazon Macie - Discover PII, CreditCard# on S3/etc
+AWS Single Sign-On - Single Sign-On (SSO)
+Certificate Manager - SSL/TLS certificates
+Key Management Service - Encryption Key
+CloudHSM - TamperProof Storage
+Directory Service - Microsoft Active Directory
+WAF - web application firewall
+ Shield - DDos Protection
+Artifact - AWS’ compliance reports / ISO etc
+Security Hub - Automate compliance checks
+
+Mobile
+AWS Amplify - Mobile Data Synch, Storage / Firebase-like
+Mobile Hub - AWS services and integrate into mobile app
+AWS AppSync - GraphQL
+Device Farm - MultiDevice Testing
+
+AR & VR
+Amazon Sumerian - VR Programming
+
+Application Integration
+Step Functions - Distributed App using visual workflows
+Amazon EventBridge - Serverless Event Bus
+Amazon MQ - Apache ActiveMQ
+Simple Notification Service - Notification (SMS possible)
+Simple Queue Service - Queue / RabbitMQ-like
+SWF - Background Jobs (parallel or sequential)
+
+AWS Cost Management
+AWS Cost Explorer - Post Cost
+AWS Budgets - Budgeting / Pre Costing 
+AWS Marketplace Subscriptions - Recurring Cost Marketplace
+
+Customer Engagement
+Amazon Connect - Call Center Service
+Pinpoint - Personalized Campaign
+Simple Email Service - SMTP Service
+
+Business Applications
+Alexa for Business - Chat Device
+Amazon Chime - TeleConferencing / Skype-like
+WorkMail - Gmail-like
+
+End User Computing
+WorkSpaces - Virtual Desktop / RDP - like
+AppStream 2.0 - stream desktop applications
+WorkDocs - Gdocs-like
+WorkLink - Mobile for Internal Websites/Apps
+
+Internet Of Things 
+IoT Core - Connected Devices
+Amazon FreeRTOS - IoT OS for microcontrollers
+IoT 1-Click - Trigger AWS Lambda functions
+IoT Analytics - Analytics for IoT devices
+IoT Device Defender - Security management for IoT devices
+IoT Device Management - Onboard, organize, monitor, & remotely manage
+IoT Events - Failures or changes in operation, and to trigger actions 
+IoT Greengrass - programming models for Edge Devices
+IoT SiteWise - IOT industrial equipment
+IoT Things Graph - Visually develop IoT applications
+
+Game Development
+Amazon GameLift - Dedicated Game Server Hosting
+
+
+
+
+
+
+

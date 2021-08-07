@@ -1,0 +1,291 @@
+AWSUG.PH
+AmazonWebServices
+Compute
+EC2
+Virtual Machine
+Lightsail
+Web Hosting
+ECR
+Container Registry
+ECS
+Container Services
+EKS
+Kubernetes Container
+Lambda
+Serverless
+Batch
+Batch Processing
+Elastic Beanstalk
+PaaS
+Serverless Application Repository
+
+
+Storage
+S3
+Object Storage
+EFS
+Network Storage 
+FSx-Lustre
+FSx-Windows
+S3 Glacier
+Long Term Storage
+TapeDrive-like
+Storage Gateway
+AWS Backup
+BackupLife Policy
+
+Database
+RDS
+SQLDatabases
+Mysql
+PostgreSQL
+MariaDB
+SqlServer
+DynamoDB
+NoSQL Database
+ElastiCache
+MemCache
+Redis
+InMemory Cache
+Neptune
+GraphDatabase
+Amazon Redshift
+DataWarehousing
+OLAP
+Amazon QLDB
+BlockchainDB
+Amazon DocumentDB
+Managed MongoDB
+
+Migration&Transfer
+AWS Migration Hub
+Wizard
+Application Discovery Service
+OnPremise
+Database Migration Service
+Heterogenous Migration
+Server Migration Service
+VMware
+MS Hyper-V/SCVMM
+AWS Transfer
+SFTP service
+Snowball
+SnowballEdge
+SnowMobile
+SnowPine
+DataSync
+
+Networking & Content Delivery
+VPC
+Virtual Network
+CloudFront
+CDN
+S3 Transfer Accelerator
+Route 53
+DNS
+API Gateway
+REST API
+Websockets API
+Direct Connect
+AWS App Mesh
+App-Level Networking
+AWS Cloud Map
+Global Accelerator
+
+Developer Tools
+CodeStar
+CI/CD
+CodeCommit
+GitRepo
+CodeBuild
+CodeDeploy
+CodePipeline
+Cloud9
+Cloud IDE
+X-Ray
+
+Robotics
+AWS RoboMaker
+
+Customer Enablement
+AWS IQ
+AWS Certified third-party experts
+AWS Support
+AWS Managed Services
+
+Blockchain
+Amazon Managed Blockchain
+
+Satellite
+Ground Station
+
+
+Management & Governance
+AWS Organizations
+Multiple AWS Account
+CloudWatch
+AWS Auto Scaling
+Vertical Scaling
+Horizontal Scaling
+Scale In&Out
+Scale Up&Down
+CloudFormation
+SAML/JSON
+IaaS
+Infrastructure as Code
+CloudTrail
+Config
+OpsWorks
+Managed Chef
+Service Catalog
+Systems Manager
+Trusted Advisor
+Virtual Consultant
+Control Tower
+Landing Zones
+AWS License Manager
+AWS Well-Architected Tool
+Personal Health Dashboard
+AWS Chatbot
+Launch Wizard for SQL Server
+
+Media Services
+Elastic Transcoder
+Kinesis Video Streams
+MediaConnect
+MediaConvert
+MediaLive
+MediaPackage
+MediaStore
+MediaTailor
+Elemental Appliances & Software
+
+
+Machine Learning
+Amazon SageMaker
+Managed Jupiter Notebooks 
+Amazon Comprehend
+Managed NLP 
+Amazon Forecast
+TimeSeries Forecast
+Amazon Lex
+Speech to Text
+
+Amazon Personalize
+Amazon Polly
+Text to Speech
+Amazon Rekognition
+Computer Vision
+Amazon Textract
+Optical Character Recognition
+Amazon Transcribe
+Speech Recognition
+Amazon Translate
+AWS DeepLens
+SmartCamera
+AWS DeepRacer
+
+
+Analytics
+Athena
+EMR
+Managed Hadoop
+CloudSearch
+Elastisearch Service
+Managed Elasticsearch 
+Kinesis
+QuickSight
+BI Tool 
+Data Pipeline
+AWS Data Exchange
+AWS Glue
+Managed ETL
+AWS Lake Formation
+MSK
+Managed Apache Kafka
+
+
+Security
+Identity
+Compliance
+IAM
+Resource Access Manager 
+Cognito
+User Pool
+Secrets Manager
+GuardDuty
+Inspector
+Amazon Macie
+AWS Single Sign-On
+Certificate Manager
+SSL/TLS certificate
+Key Management Service
+Encryption Key
+Data Key
+CloudHSM
+AWS Directory Service
+WAF
+Shield
+DDos Protection
+Artifact
+Security Hub
+
+Mobile
+AWS Amplify
+Mobile Hub
+AWS AppSync
+GraphQL
+Device Farm
+
+AR & VR
+Amazon Sumerian
+
+Application Integration
+Step Functions
+Amazon EventBridge
+Serverless Event Bus
+Amazon MQ
+Apache ActiveMQ
+Simple Notification Service
+Simple Queue Service
+Long Polling
+Short Polling
+FIFO
+SWF
+
+AWS Cost Management
+AWS Cost Explorer
+AWS Budgets
+AWS Marketplace Subscriptions
+
+Customer Engagement
+Amazon Connect
+Pinpoint
+Simple Email Service
+SMTP Service
+
+Business Applications
+Alexa for Business
+Amazon Chime
+WorkMail
+
+End User Computing
+WorkSpaces
+AppStream
+WorkDocs
+WorkLink
+
+Internet Of Things 
+IoT Core
+Amazon FreeRTOS
+IoT 1-Click
+IoT Analytics
+IoT Device Defender
+IoT Device Management
+IoT Events
+IoT Greengrass
+IoT SiteWise
+IoT Things Graph
+
+Game Development
+Amazon GameLift
