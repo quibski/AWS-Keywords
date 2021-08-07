@@ -9,11 +9,9 @@ AWSUG.PH
 
 ![Alt text](Screen%20Shot%20Flashcards.png?raw=true "FlashCards")
 
-
-
 ![Alt text](Screen%20Shot%20Code%20Names.png?raw=true "Code Names")
 
-
-
 ![Alt text](Screen%20Shot%20Skribblio.png?raw=true "Skribblio")
+
+![Alt text](Screen%20Shot%20Jewels%20of%20Wisdom.png?raw=true "Skribblio")
 
