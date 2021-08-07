@@ -1,6 +1,10 @@
 # AWS-Keywords
 Keywords of AWS &amp; Related Services you can use for various activities like studying, flashcards or games
 
+# Call for Help
+Please contribute and do a lot of Pull Request. Add you name to credits if you want
+
+# Credits
 Started by:
 YoungCTO.tech Rafi Quisumbing
 AWSUG.PH
