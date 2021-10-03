@@ -55,6 +55,7 @@ CodeDeploy
 CodePipeline
 Cloud9
 X-Ray
+AWS CodeArtifact
 
 Robotics
 AWS RoboMaker
@@ -146,6 +147,7 @@ Directory Service
 WAF & Shield
 Artifact
 Security Hub
+Audit Manager
 
 Mobile
 AWS Amplify
